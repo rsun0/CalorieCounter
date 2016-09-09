@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calorie Counter</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="toast_save">List saved.</string>
+    <string name="load">Save file loaded.</string>
+    <string name="noload">No save file found.</string>
+    <string name="webview">Lookup</string>
+    <string name="url">http://www.thecaloriecounter.com/</string>
+    <string name="total">Total:</string>
+    <string name="calories">calories</string>
+    <string name="number_error">Invalid calorie amount</string>
+    <string name="heading1">Name</string>
+    <string name="heading2">Calories</string>
+    <string name="clear">Clear</string>
+    <string name="toast_clear">List and save file cleared.</string>
+    <string name="hint1">Name</string>
+    <string name="hint2">Cal.</string>
+    <string name="hint3">Calories</string>
+    <string name="target">Set Target</string>
+    <string name="toast_set">Target set.</string>
+</resources>
